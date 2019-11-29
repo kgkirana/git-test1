@@ -1,6 +1,6 @@
 First test file.. AAA
 
-BBB
+BBB  CCCC
 
 Adding a new line..  adding 3rd line
 
